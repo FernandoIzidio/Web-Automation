@@ -5,7 +5,7 @@ Este repositório abriga uma coleção de projetos relacionados à automação w
 
 ## Stack Tecnológica
 
-- **BS4 (BeautifulSoup4):** Uma biblioteca Python para extrair dados de HTML e XML de maneira simples e eficiente. Explore projetos que utilizam BS4 para análise de conteúdo web de forma elegante e eficaz.
+- **BS4 (BeautifulSoup4):** Uma biblioteca Python para extrair dados de HTML e XML de maneira simples e eficiente. 
 
 - **Selenium:** Ferramenta para automação de browsers web.
 
