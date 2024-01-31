@@ -128,7 +128,7 @@ Funções Principais
             data (Iterable): Lista de linhas para escrever no arquivo.
             fd (file_object): O objeto de arquivo onde escrever os dados.
     
-        Returns: Nenhum.
+        Returns: None.
     
     
 
