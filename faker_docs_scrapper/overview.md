@@ -128,4 +128,4 @@ Escreve várias linhas de um objeto de dados em um arquivo fornecido.
   - `data (Iterable)`: Lista de linhas para escrever no arquivo.
   - `fd (file_object)`: O objeto de arquivo onde escrever os dados.
 
-- **Returns:** Nenhum.
+- **Returns:** None.
