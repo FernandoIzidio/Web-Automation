@@ -1,6 +1,6 @@
-## faker_docs_scrapper
+## Faker Docs Scrapper
 
-O módulo `fake_docs_scraper.py` é um script Python projetado para fazer scraping em documentação web, especificamente na documentação do Faker, uma biblioteca Python para geração de dados falsos. O script usa a biblioteca BeautifulSoup para analisar a estrutura HTML das páginas da documentação.
+O módulo Faker Docs Scrapper é um script Python projetado para fazer scraping em documentação web, especificamente na documentação do Faker, uma biblioteca Python para geração de dados falsos. O script usa a biblioteca BeautifulSoup para analisar a estrutura HTML das páginas da documentação.
 
 ### Uso Principal
 
@@ -12,7 +12,8 @@ O script usa expressões regulares e manipulação de strings para processar as 
 
 ### Avisos
 
-O script não lida explicitamente com casos de erros ou exceções durante a execução. O arquivo não trata warnings de importação nós módulos gerados.
+O script não lida explicitamente com casos de erros ou exceções durante a execução. 
+O arquivo não trata warnings de importação nós módulos gerados.
 
 ### Funções Principais
 
