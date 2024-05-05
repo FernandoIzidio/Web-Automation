@@ -13,7 +13,6 @@ O script usa expressões regulares e manipulação de strings para processar as 
 ### Avisos
 
 O script não lida explicitamente com casos de erros ou exceções durante a execução. 
-O arquivo não trata warnings de importação nós módulos gerados.
 
 ### Funções Principais
 
